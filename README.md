@@ -22,7 +22,9 @@ Model Evaluation: Evaluate models using metrics like RMSE (Root Mean Squared Err
 #Technologies Used
 
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
+
 Tools: Jupyter Notebook
 
 
