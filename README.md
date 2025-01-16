@@ -3,6 +3,7 @@
 #Load Forecasting for Electrical Consumption
 
 #Overview
+
 This project focuses on forecasting electrical load demand using time series data and advanced machine learning techniques. Accurate load forecasting is essential for efficient energy management, optimizing resources, and preventing outages in the energy sector.
 
 #Key Objectives
